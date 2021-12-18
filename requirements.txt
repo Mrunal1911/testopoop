@@ -1,2 +1,1 @@
 pybeastx==2021.10.11.5
-telethon
